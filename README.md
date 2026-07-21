@@ -23,11 +23,11 @@ $\color{lightblue}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
   <tr>
     <th>
   
-  <p align="left">$\color{paleturquoise}\small{\textsf{⠀ ⠀c*h comf⠀⠀w2i pref}}$
+  <p align="left">$\color{paleturquoise}\small{\textsf{⠀ ⠀C*H Comf⠀⠀W2I Pref.}}$
 
-<p align="left">$\color{powderblue}\small{\textsf{⠀offtab freq⠀⠀cosplay main}}$
+<p align="left">$\color{powderblue}\small{\textsf{⠀Offtab Freq.⠀⠀Cosplay Main}}$
 
-<p align="left">$\color{lightblue}\small{\textsf{⠀⠀⠀traveler⠀⠀any int!⠀...}}$ </p>
+<p align="left">$\color{lightblue}\small{\textsf{⠀⠀⠀Traveler⠀⠀Any INT!⠀...}}$ </p>
     </th>
   </tr>
 </table>
@@ -40,11 +40,11 @@ $\color{lightblue}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
   <table>
   <tr>
     <th>
-<p align="left">$\color{paleturquoise}\small{\textsf{⠀⠀⠀⠀⠀proshipper⠀⠀racist}}$
+<p align="left">$\color{paleturquoise}\small{\textsf{⠀⠀Proshipper⠀⠀Racist}}$
 
-<p align="left">$\color{powderblue}\small{\textsf{⠀⠀⠀⠀⠀⠀lgbtqphobe⠀⠀yume}}$
+<p align="left">$\color{powderblue}\small{\textsf{⠀LGBTQphobe⠀⠀Yume}}$
 
-<p align="left">$\color{lightblue}\small{\textsf{⠀⠀⠀⠀⠀⠀⠀radqueer⠀⠀16-}}$
+<p align="left">$\color{lightblue}\small{\textsf{⠀⠀⠀Radqueer⠀⠀15-}}$
       </th>
   </tr>
 </table>
