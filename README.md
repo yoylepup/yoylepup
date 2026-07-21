@@ -1,4 +1,4 @@
-<img align="left" width="245" alt="image" src="https://i.postimg.cc/gc6F7LH8/Untitled90-20260721153733.png"/> <img align=right width="120" alt="image" src="https://i.postimg.cc/ZY1Bk3tq/Untitled91-20260721154952.png"/> 
+<img align="left" width="280" alt="image" src="https://i.postimg.cc/gc6F7LH8/Untitled90-20260721153733.png"/> <img align=right width="120" alt="image" src="https://i.postimg.cc/ZY1Bk3tq/Untitled91-20260721154952.png"/> 
 
 <details>
 <summary>      <p> $\color{paleturquoise}\Huge{\textsf{YOYLE⠀}}$ $\color{powderblue}\normalsize{\textsf{or}}$
