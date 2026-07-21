@@ -57,3 +57,6 @@ $\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
   </tr>
 </table>
 </details>
+
+
+$\tiny{\textsf{sorry for the horrible visibility on the texts .. i'll probably re-theme this in a week or a few days prior so it's better on the eyes. xxx}}$
