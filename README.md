@@ -1,16 +1,30 @@
-## Hi there 👋
+<img align="left" width="245" alt="image" src="https://i.postimg.cc/gc6F7LH8/Untitled90-20260721153733.png"/> <img align=right width="120" alt="image" src="https://i.postimg.cc/ZY1Bk3tq/Untitled91-20260721154952.png"/> 
 
-<!--
-**yoylepup/yoylepup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>      <p> $\color{Darkolivegreen}\Huge{\textsf{YOYLE⠀}}$
+$\color{Darkolivegreen}\normalsize{\textsf{or}}$
+$\color{Darkolivegreen}\Huge{\textsf{⠀DOTTIE}}$</summary>
 
-Here are some ideas to get you started:
+  $\color{Darkolivegreen}\small{\textsf{⠀⠀⠀⠀⠀17yrs⠀⠀⠀she⠀·⠀her}}$
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$\color{Darkolivegreen}\small{\textsf{⠀⠀⠀⠀⠀adhd⠀⠀⠀blk⠀⠀⠀aro}}$</p>
+</details> 
+
+<details>
+<summary>      <p align="left">$\color{Darkolivegreen}\large{\textsf{PONYTOWN ⠀INFO.}}$</summary>
+<p align="left">$\color{Darkolivegreen}\small{\textsf{⠀ ⠀c*h comf⠀⠀w2i pref}}$
+
+<p align="left">$\color{Darkolivegreen}\small{\textsf{⠀offtab freq⠀⠀cosplay main}}$
+
+<p align="left">$\color{Darkolivegreen}\small{\textsf{⠀⠀⠀traveler⠀⠀any int!⠀...}}$ </p>
+</details>
+
+
+<details>
+<summary>      <p align="left">$\color{Darkolivegreen}\large{\textsf{⠀⠀⠀DNI.}}$</summary>
+<p align="left">$\color{Darkolivegreen}\small{\textsf{⠀⠀⠀⠀⠀proshipper⠀⠀racist}}$
+
+<p align="left">$\color{Darkolivegreen}\small{\textsf{⠀⠀⠀⠀⠀⠀lgbtqphobe⠀⠀yume}}$
+
+<p align="left">$\color{Darkolivegreen}\small{\textsf{⠀⠀⠀⠀⠀⠀⠀radqueer⠀⠀16-}}$
+</details>
