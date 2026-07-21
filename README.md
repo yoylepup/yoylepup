@@ -25,7 +25,11 @@ $\color{lightblue}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
   
   <p align="left">$\color{paleturquoise}\small{\textsf{⠀ ⠀C*H Comf⠀⠀W2I Pref.}}$
 
+$\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
+
 <p align="left">$\color{powderblue}\small{\textsf{⠀Offtab Freq.⠀⠀Cosplay Main}}$
+
+$\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
 
 <p align="left">$\color{lightblue}\small{\textsf{⠀⠀⠀Traveler⠀⠀Any INT!⠀...}}$ </p>
     </th>
@@ -42,7 +46,11 @@ $\color{lightblue}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
     <th>
 <p align="left">$\color{paleturquoise}\small{\textsf{⠀⠀Proshipper⠀⠀Racist}}$
 
+$\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
+
 <p align="left">$\color{powderblue}\small{\textsf{⠀LGBTQphobe⠀⠀Yume}}$
+
+$\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
 
 <p align="left">$\color{lightblue}\small{\textsf{⠀⠀⠀Radqueer⠀⠀15-}}$
       </th>
