@@ -18,7 +18,7 @@ $\color{lightblue}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
 </details> 
 
 <details>
-<summary>      <p align="left">$\color{paleturquoise}\large{\textsf{PONYTOWN ⠀INFO.}}$</summary>
+<summary>      <p> $\color{paleturquoise}\large{\textsf{PONYTOWN}}$ $\color{powderblue}\large{\textsf{INFO.}}$</summary>
 <table>
   <tr>
     <th>
