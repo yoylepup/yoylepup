@@ -1,16 +1,16 @@
 <img align="left" width="350" alt="image" src="https://i.postimg.cc/Y9J442cn/Untitled96-20260723002406.png"/> <img align=right width="120" alt="image" src="https://i.postimg.cc/7hDsyksZ/Untitled91-20260723001218.png"/> 
 
 <details>
-<summary>      <p> $\color{paleturquoise}\Huge{\textsf{YOYLE⠀}}$ $\color{powderblue}\normalsize{\textsf{or}}$
-$\color{lightblue}\Huge{\textsf{⠀DOTTIE}}$</summary>
+<summary>      <p> $\color{darkseagreen}\large{\textsf{YOYLE⠀}}$ $\color{darkseagreen}\normalsize{\textsf{or}}$
+$\color{darkseagreen}\large{\textsf{⠀DOTTIE}}$</summary>
 <table>
   <tr>
     <th>
-      $\color{powderblue}\small{\textsf{⠀¹7⠀⠀⠀SheHer⠀⠀⠀Aromantic}}$
+      $\color{darkseagreen}\small{\textsf{⠀¹7⠀⠀⠀SheHer⠀⠀⠀Aromantic}}$
 
-$\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
+$\color{darkseagreen}\small{\textsf{⠀⠀๑⠀⠀}}$
       
-$\color{lightblue}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
+$\color{darkseagreen}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
     </th>
   </tr>
 </table>
@@ -18,20 +18,20 @@ $\color{lightblue}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
 </details> 
 
 <details>
-<summary>      <p> $\color{paleturquoise}\large{\textsf{PONYTOWN}}$ $\color{powderblue}\large{\textsf{INFO.}}$</summary>
+<summary>      <p> $\color{darkseagreen}\large{\textsf{PONYTOWN}}$ $\color{darkseagreen}\large{\textsf{INFO.}}$</summary>
 <table>
   <tr>
     <th>
   
-  <p align="left">$\color{paleturquoise}\small{\textsf{⠀ ⠀C*H Comf⠀⠀W2I Pref.}}$
+  <p align="left">$\color{darkseagreen}\small{\textsf{⠀ ⠀C*H Comf⠀⠀W2I Pref.}}$
+
+$\color{darkseagreen}\small{\textsf{⠀⠀๑⠀⠀}}$
+
+<p align="left">$\color{darkseagreen}\small{\textsf{⠀Offtab Freq.⠀⠀Cosplay Main}}$
 
 $\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
 
-<p align="left">$\color{powderblue}\small{\textsf{⠀Offtab Freq.⠀⠀Cosplay Main}}$
-
-$\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
-
-<p align="left">$\color{lightblue}\small{\textsf{⠀⠀⠀Traveler⠀⠀Any INT!⠀...}}$ </p>
+<p align="left">$\color{darkseagreen}\small{\textsf{⠀⠀⠀Traveler⠀⠀Any INT!⠀...}}$ </p>
     </th>
   </tr>
 </table>
@@ -39,20 +39,20 @@ $\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
 
 
 <details>
-<summary>      <p align="left">$\color{paleturquoise}\large{\textsf{⠀⠀⠀DNI.}}$</summary>
+<summary>      <p align="left">$\color{darkseagreen}\large{\textsf{⠀⠀⠀DNI.}}$</summary>
 
   <table>
   <tr>
     <th>
-<p align="left">$\color{paleturquoise}\small{\textsf{⠀⠀Proshipper⠀⠀Racist}}$
+<p align="left">$\color{darkseagreen}\small{\textsf{⠀⠀Proshipper⠀⠀Racist}}$
 
 $\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
 
-<p align="left">$\color{powderblue}\small{\textsf{⠀LGBTQphobe⠀⠀Yume}}$
+<p align="left">$\color{darkseagreen}\small{\textsf{⠀LGBTQphobe⠀⠀Yume}}$
 
-$\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
+$\color{darkseagreen}\small{\textsf{⠀⠀๑⠀⠀}}$
 
-<p align="left">$\color{lightblue}\small{\textsf{⠀⠀⠀Radqueer⠀⠀15-}}$
+<p align="left">$\color{darkseagreen}\small{\textsf{⠀⠀⠀Radqueer⠀⠀15-}}$
       </th>
   </tr>
 </table>
