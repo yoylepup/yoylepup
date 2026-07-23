@@ -28,7 +28,7 @@ $\color{darkseagreen}\small{\textsf{⠀⠀๑⠀⠀}}$
 
 <p align="left">$\color{darkseagreen}\small{\textsf{⠀Offtab Freq.⠀⠀Cosplay Main}}$
 
-$\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
+$\color{darkseagreen}\small{\textsf{⠀⠀๑⠀⠀}}$
 
 <p align="left">$\color{darkseagreen}\small{\textsf{⠀⠀⠀Traveler⠀⠀Any INT!⠀...}}$ </p>
     </th>
@@ -45,7 +45,7 @@ $\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
     <th>
 <p align="left">$\color{darkseagreen}\small{\textsf{⠀⠀Proshipper⠀⠀Racist}}$
 
-$\color{powderblue}\small{\textsf{⠀⠀๑⠀⠀}}$
+$\color{darkseagreen}\small{\textsf{⠀⠀๑⠀⠀}}$
 
 <p align="left">$\color{darkseagreen}\small{\textsf{⠀LGBTQphobe⠀⠀Yume}}$
 
