@@ -1,4 +1,4 @@
-<img align="left" width="350" alt="image" src="https://i.postimg.cc/FRgp3p2K/Untitled115-20260918131204.png"/> 
+<img align="left" width="350" alt="image" src="https://i.postimg.cc/HxZJq7Mw/Untitled115-20260918131657.png"/> 
 <details>
 <summary>      <p> $\color{darkseagreen}\large{\textsf{YOYLE⠀}}$ $\color{darkseagreen}\normalsize{\textsf{or}}$
 $\color{darkseagreen}\large{\textsf{⠀DOTTIE}}$</summary>
